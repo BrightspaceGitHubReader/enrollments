@@ -1,12 +1,12 @@
 {
-   "completedDaysAgo" : "Terminé il y a {number} jours",
-   "completedOn" : "Terminé à {dateTime}",
-   "completedToday" : "Terminé aujourd'hui",
+   "completedDaysAgo" : "Terminé il y a {number} jours",
+   "completedOn" : "Terminé le {dateTime}",
+   "completedToday" : "Terminé aujourd’hui",
    "completedTomorrow" : "Terminé demain",
    "completedYesterday" : "Terminé hier",
-   "dueDaysAgo" : "À remettre il y a {number} jours",
-   "dueOn" : "À remettre {dateTime}",
-   "dueToday" : "À remettre aujourd'hui",
-   "dueTomorrow" : "À remettre demain",
-   "dueYesterday" : "À remettre hier"
+   "dueDaysAgo" : "Dû dans {number} jours",
+   "dueOn" : "Dû le {dateTime}",
+   "dueToday" : "Dû aujourd’hui",
+   "dueTomorrow" : "Dû demain",
+   "dueYesterday" : "Dû hier"
 }
