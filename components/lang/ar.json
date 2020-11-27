@@ -1,7 +1,7 @@
 {
     "activityProgress" : {
         "context" : "x/y activities have been completed",
-        "translation" : "النشاطات"
+        "translation" : "الأنشطة"
     },
     "changeImage" : {
         "context" : "Change the decorative image of an item ",
@@ -9,11 +9,11 @@
     },
     "closed" : {
         "context" : "This item has been closed. You can longer access this item",
-        "translation" : "تم الإغلاق"
+        "translation" : "مغلق"
     },
     "completed" : {
         "context" : "The user has done everything for this item.",
-        "translation" : "اكتمال"
+        "translation" : "مكتملة"
     },
     "completedDaysAgo" : {
         "context" : "The item was completed x number of days ago in the past.",
@@ -25,7 +25,7 @@
     },
     "completedToday" : {
         "context" : "This item was completed today",
-        "translation" : "تم الإكمال اليوم"
+        "translation" : "مكتمل اليوم"
     },
     "completedTomorrow" : {
         "context" : "This item was completed tomorrow. In the future.",
@@ -33,7 +33,7 @@
     },
     "completedYesterday" : {
         "context" : "This item was completed yesterday.",
-        "translation" : "تم الإكمال بالأمس"
+        "translation" : "مكتمل بالأمس"
     },
     "continue" : {
         "context" : "Continue an item where you left off.",
@@ -57,7 +57,7 @@
     },
     "description" : {
         "context" : "A description of an item. A course mainly",
-        "translation" : "الوصف"
+        "translation" : "وصف"
     },
     "disabled" : {
         "context" : "This course is current not accessible to the user.",
@@ -105,7 +105,11 @@
     },
     "new" : {
         "context" : "The user has never entered into the course.",
-        "translation" : "جديد"
+        "translation" : "New (جديدة)"
+    },
+    "noCoursesMessage" : {
+        "context" : "The message that is displayed when a user has no courses or Learning Paths assigned to them.",
+        "translation" : "ليس لديك أي مقررات تعليمية أو مسارات تعلّم لعرضها."
     },
     "overdue" : {
         "context" : "The user is expected to finish this course in the past.",
@@ -131,12 +135,8 @@
         "context" : "Response from the Unpin action verifying that this action has been taken place.",
         "translation" : "تم إلغاء تثبيت {course}"
     },
-    "noCoursesMessage": {
-        "translation": "You don't have any courses or learning paths to display.",
-        "context": "The message that is displayed when a user has no courses or Learning Paths assigned to them."
-    },
-    "viewAllLearning": {
-        "translation": "View All Learning",
-        "context": "The button text linking the user to the My Learning page to view all of their Learning items"
+    "viewAllLearning" : {
+        "context" : "The button text linking the user to the My Learning page to view all of their Learning items",
+        "translation" : "عرض كل مواد التعلّم"
     }
 }
