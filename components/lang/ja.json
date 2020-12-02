@@ -13,7 +13,7 @@
     },
     "completed" : {
         "context" : "The user has done everything for this item.",
-        "translation" : "完了"
+        "translation" : "の完了"
     },
     "completedDaysAgo" : {
         "context" : "The item was completed x number of days ago in the past.",
@@ -107,6 +107,10 @@
         "context" : "The user has never entered into the course.",
         "translation" : "新規"
     },
+    "noCoursesMessage" : {
+        "context" : "The message that is displayed when a user has no courses or Learning Paths assigned to them.",
+        "translation" : "表示するコースまたは学習パスがありません。"
+    },
     "overdue" : {
         "context" : "The user is expected to finish this course in the past.",
         "translation" : "期限切れ"
@@ -131,12 +135,8 @@
         "context" : "Response from the Unpin action verifying that this action has been taken place.",
         "translation" : "{course} は固定解除されました"
     },
-    "noCoursesMessage": {
-        "translation": "You don't have any courses or learning paths to display.",
-        "context": "The message that is displayed when a user has no courses or Learning Paths assigned to them."
-    },
-    "viewAllLearning": {
-        "translation": "View All Learning",
-        "context": "The button text linking the user to the My Learning page to view all of their Learning items"
+    "viewAllLearning" : {
+        "context" : "The button text linking the user to the My Learning page to view all of their Learning items",
+        "translation" : "すべての学習内容を表示"
     }
 }
