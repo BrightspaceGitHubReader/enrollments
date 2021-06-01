@@ -1,4 +1,8 @@
 {
+    "activityCount" : {
+        "context" : "number of activities in the collection",
+        "translation" : "{count, plural, =1 {1 activité} other {{count} activités}}"
+    },
     "activityProgress" : {
         "context" : "x/y activities have been completed",
         "translation" : "Activités"
@@ -61,7 +65,7 @@
     },
     "disabled" : {
         "context" : "This course is current not accessible to the user.",
-        "translation" : "Désactivée"
+        "translation" : "Désactivé"
     },
     "dueDaysAgo" : {
         "context" : "This course needs to be done and was expected to be done x days ago",

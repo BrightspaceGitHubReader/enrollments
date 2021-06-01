@@ -1,4 +1,8 @@
 {
+    "activityCount" : {
+        "context" : "number of activities in the collection",
+        "translation" : "{count, plural, =1 {1 aktivitet} other {{count} aktiviteter}}"
+    },
     "activityProgress" : {
         "context" : "x/y activities have been completed",
         "translation" : "Aktiviteter"
@@ -21,7 +25,7 @@
     },
     "completedOn" : {
         "context" : "The date at which this item was completed. The date is in the past.",
-        "translation" : "Fuldført {dateTime}"
+        "translation" : "Fuldført den {dateTime}"
     },
     "completedToday" : {
         "context" : "This item was completed today",
@@ -69,7 +73,7 @@
     },
     "dueOn" : {
         "context" : "This course needs to be finished at a future time.",
-        "translation" : "Forfalden {dateTime}"
+        "translation" : "Forfalden den {dateTime}"
     },
     "dueToday" : {
         "context" : "This course needs to be finished today.",
@@ -110,6 +114,7 @@
     "noCoursesMessage" : {
         "context" : "The message that is displayed when a user has no courses or Learning Paths assigned to them.",
         "translation" : "Du har ingen kurser eller undervisningsstier, der skal vises."
+
     },
     "overdue" : {
         "context" : "The user is expected to finish this course in the past.",
